@@ -15,7 +15,7 @@ img {
 
 h1 {
     font-size: 30px;
-    font-family: inherit;
+    font-family: 'Sansita Swashed', cursive;
 }
 
 #hobby {
@@ -49,5 +49,9 @@ h1 {
 }
 
 .links:hover {
-    background-color: purple;
+    background-color: green;
+}
+
+html {
+    scroll-behavior: smooth;
 }
